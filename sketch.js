@@ -31,11 +31,18 @@ function setup() {
 	World.add(world, ball);
 
 	//criar o groundObj baseado no pdf do projeto
+	
+	//adicionar no mundo
+	
 
 	//criar o leftSide baseado no pdf do projeto
+	
+	//adicionar no mundo
 
 	//grade da direita
 	rightSide = new Ground(1350, height - 80, 20, 120);
+	
+	//adicionar no mundo
 
 	Engine.run(engine);
 }
