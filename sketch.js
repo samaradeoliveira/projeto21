@@ -59,7 +59,7 @@ function draw() {
 
 	/*exiba o groundObj e o leftSide com o método de exibição da classe ground
         (verifique no projeto ou na linha 62 como foi feito com o rightSide)
-	faça isso na linha 62 e 63*/
+	faça isso na linha 63 e 64*/
 
 	rightSide.display();
 }
